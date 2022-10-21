@@ -23,7 +23,7 @@
     </a>
   </div>
     <div id="badges">
-    <img src="https://komarev.com/ghpvc/?username=AurovD&style=flat-square&color=green" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=AurovD&style=flat-square&color=grey" alt=""/>
     <h1>AurovD</h1>
   </div>
 </div>
