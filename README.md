@@ -79,3 +79,9 @@ I am a Full Stack Developer from Russia.
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AurovD&show_icons=true&theme=gotham)
+
+---
+
+### :writing_hand: Blog Posts :
+
+- <a href="https://telegra.ph/Zamykanie-09-08">Замыкание - 08 - 09 - 2022</a>
