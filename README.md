@@ -24,7 +24,7 @@
     <a href="https://aurovd.ru/">
       <img src="https://img.shields.io/static/v1?label=&message=aurovd.ru&color=teal" alt="aurovd"/>
     </a>
-    <a href="https://t.me/juniornoteslink">
+    <a href="https://t.me/webdevaddicted">
       <img src="https://img.shields.io/static/v1?label=&message=Web%20Dev%20Addicted&color=teal" alt="wda"/>
     </a>
   </div>
