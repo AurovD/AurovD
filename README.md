@@ -1,5 +1,8 @@
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/43451254?v=4" width="100"/>
+</div>
+
+<div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/dmitry-aurov-b2ab77250">
       <img src="https://img.shields.io/badge/LinkedIn-teal?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,6 +17,9 @@
       <img src="https://img.shields.io/badge/Facebook-teal?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
     </a>
   </div>
+</div>
+
+<div id="header" align="center">
   <div id="badges">
     <a href="https://aurovd.ru/">
       <img src="https://img.shields.io/static/v1?label=&message=aurovd.ru&color=teal" alt="aurovd"/>
@@ -22,6 +28,8 @@
       <img src="https://img.shields.io/static/v1?label=&message=Web%20Dev%20Addicted&color=teal" alt="wda"/>
     </a>
   </div>
+</div>
+<div id="header" align="center">
     <div id="badges">
     <img src="https://komarev.com/ghpvc/?username=AurovD&style=flat-square&color=grey" alt=""/>
     <h1>AurovD</h1>
@@ -58,7 +66,7 @@ I am a Full Stack Developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 </div>
 
-<br>
+---
 
 ### :fire: My Stats :
 
