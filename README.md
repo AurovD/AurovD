@@ -85,3 +85,4 @@ I am a Full Stack Developer from Russia.
 ### :writing_hand: Blog Posts :
 
 - <a href="https://telegra.ph/Zamykanie-09-08">Замыкание - 08 - 09 - 2022</a>
+- <a href="https://telegra.ph/Kontekst-10-05">Контекст - 10 - 05 - 2022</a>
