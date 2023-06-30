@@ -4,12 +4,6 @@
 
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/dmitry-aurov-b2ab77250">
-      <img src="https://img.shields.io/badge/LinkedIn-teal?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/aurovdm/">
-      <img src="https://img.shields.io/badge/Instagram-teal?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
-    </a>
     <a href="https://t.me/aurovdm">
       <img src="https://img.shields.io/badge/Telegram-teal?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
