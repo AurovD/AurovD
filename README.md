@@ -13,15 +13,12 @@
     <a href="https://t.me/aurovdm">
       <img src="https://img.shields.io/badge/Telegram-teal?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100052364083518&ref=bookmarks">
-      <img src="https://img.shields.io/badge/Facebook-teal?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
-    </a>
   </div>
 </div>
 
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://aurovd.ru/">
+    <a href="https://aurovdm.ru/">
       <img src="https://img.shields.io/static/v1?label=&message=aurovd.ru&color=teal" alt="aurovd"/>
     </a>
     <a href="https://t.me/webdevaddicted">
