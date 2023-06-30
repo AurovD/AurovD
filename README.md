@@ -19,7 +19,7 @@
 <div id="header" align="center">
   <div id="badges">
     <a href="https://aurovdm.ru/">
-      <img src="https://img.shields.io/static/v1?label=&message=aurovd.ru&color=teal" alt="aurovdm"/>
+      <img src="https://img.shields.io/static/v1?label=&message=aurovdm.ru&color=teal" alt="aurovdm"/>
     </a>
     <a href="https://t.me/webdevaddicted">
       <img src="https://img.shields.io/static/v1?label=&message=Web%20Dev%20Addicted&color=teal" alt="wda"/>
