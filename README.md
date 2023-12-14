@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/static/v1?label=&message=aurovdm.ru&color=teal" alt="aurovdm"/>
     </a>
     <a href="https://dzen.ru/aurovdm">
-      <img src="https://img.shields.io/static/v1?label=&message=Блог&color=teal" alt="wda"/>
+      <img src="https://img.shields.io/static/v1?label=&message=Blog&color=teal" alt="wda"/>
     </a>
   </div>
 </div>
