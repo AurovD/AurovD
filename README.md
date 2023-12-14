@@ -27,7 +27,7 @@
   </div>
 </div>
 
-### :paw_prints: About Me :
+###  About Me :
 
 I am a Full Stack Developer from Russia.
 
@@ -41,9 +41,7 @@ I am a Full Stack Developer from Russia.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-
-### :purple_heart: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -61,7 +59,7 @@ I am a Full Stack Developer from Russia.
 
 ---
 
-### :fire: My Stats :
+###  My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AurovD&theme=gotham&background=000000)](https://git.io/streak-stats)
 
@@ -75,7 +73,7 @@ I am a Full Stack Developer from Russia.
 
 ---
 
-### :writing_hand: Blog Posts :
+###  Blog Posts :
 
 - <a href="https://telegra.ph/Zamykanie-09-08">Замыкание</a>
 - <a href="https://telegra.ph/Kontekst-10-05">Контекст</a>
