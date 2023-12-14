@@ -15,8 +15,8 @@
     <a href="https://aurovdm.ru/">
       <img src="https://img.shields.io/static/v1?label=&message=aurovdm.ru&color=teal" alt="aurovdm"/>
     </a>
-    <a href="https://t.me/webdevaddicted">
-      <img src="https://img.shields.io/static/v1?label=&message=Web%20Dev%20Addicted&color=teal" alt="wda"/>
+    <a href="https://dzen.ru/aurovdm">
+      <img src="https://img.shields.io/static/v1?label=&message=Блог&color=teal" alt="wda"/>
     </a>
   </div>
 </div>
