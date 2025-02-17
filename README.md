@@ -29,7 +29,7 @@
 
 ###  About Me :
 
-I am a Full Stack Developer from Russia.
+I am a Web Developer from Russia.
 
 - :man_technologist: Developer.
 
